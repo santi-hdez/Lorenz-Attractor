@@ -199,5 +199,5 @@ After completing the numerical integration, the program additionally generates a
 
 **Santiago Hernández Díaz**
 
-PhD candidate in Astrophysics
+PhD candidate in Physics
 University of Tübingen
