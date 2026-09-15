@@ -179,7 +179,7 @@ After completing the numerical integration, the program additionally generates a
 
 ![Lorenz attractor](media/lorenz_attractor.gif)
 
-[Watch the full MP4 simulation](media/movie_lorenz_model.mp4)
+[Watch the full MP4 simulation](media/lorenz_attractor.mp4)
 
 ---
 
