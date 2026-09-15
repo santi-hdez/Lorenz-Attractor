@@ -189,8 +189,10 @@ After completing the numerical integration, the program additionally generates a
 .
 ├── Lorenz_Model.py
 ├── media/
+│   ├── lorenz_attractor.gif
 │   └── lorenz_attractor.mp4
-└── README.md
+├── README.md
+└── LICENSE
 ```
 
 ## Author
